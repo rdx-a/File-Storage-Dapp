@@ -1,0 +1,185 @@
+/* body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #2f4b67; 
+}
+
+.App {
+  background-color: #1d2e40; 
+  color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+#input{
+  background-color: #1d2e40; 
+
+}
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #fff;
+  font-size: 36px; 
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input[type="file"] {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+}
+
+input[type="file"]:focus {
+  outline: none;
+}
+
+button {
+  padding: 12px 24px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+p {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold; 
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+  border: none;
+  width: 100%;
+  max-width: 600px;
+  height: 400px;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+} */
+
+
+
+
+
+
+
+/* app.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #2f4b67; 
+}
+
+.container {
+  position: relative;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.App {
+  background-color: #1d2e40; 
+  color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #fff;
+  font-size: 36px; /* increased font size */
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input[type="file"] {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #1d2e40; 
+}
+
+input[type="file"]:focus {
+  outline: none;
+}
+
+button {
+  padding: 12px 24px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+p {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold; /* bold text */
+  color: white; /* highlight color */
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+  border: none;
+  width: 100%;
+  max-width: 600px;
+  height: 400px;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.logo-left {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 100px;
+  height: auto;
+}
+
+.logo-right {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 100px;
+  height: auto;
+}
