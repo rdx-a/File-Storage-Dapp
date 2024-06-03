@@ -1,2 +1,5 @@
 In response to the growing demand for secure, decentralized file storage solutions, this project introduces a novel application leveraging the Interplanetary File System (IPFS) and Ethereum blockchain technology. The objective is to create a robust, censorship-resistant platform for storing and accessing files, ensuring data integrity and user privacy. Through the integration of React, CSS, and JavaScript for frontend development, coupled with Ethereum smart contracts written in Solidity and IPFS for decentralized storage, the application provides users with a seamless and secure experience. The project methodology encompasses frontend design, smart contract development, IPFS integration, testing, and deployment, culminating in a fully functional decentralized file storage application. The findings demonstrate the viability and potential of blockchain-based decentralized storage systems in addressing contemporary challenges of data security and sovereignty.
+
+
+
 ![image](https://github.com/rdx-a/File-Storage-Dapp/assets/83424162/422a7963-4870-4beb-91c7-d0b7d3dc7f24)
